@@ -1,3 +1,7 @@
 References for implementing NFC Clonning
 
 Link 1: https://www.youtube.com/watch?v=t5eBPS6lV3E
+
+Link 2: Cloning using arduino 
+https://www.youtube.com/watch?v=VXx6l3vgBno
+https://cybersudo.org/rfid-cards-hacking-cloning-using-arduino/
