@@ -1,3 +1,4 @@
 https://ieeexplore.ieee.org/document/9159639
 https://www.researchgate.net/publication/258590498_Research_on_the_Coding_and_Decoding_Technology_in_ISOIEC_14443_TYPEA_of_RFID
 https://www.emerald.com/insight/content/doi/10.1108/IMCS-09-2013-0067/full/html
+https://www.nxp.com/docs/en/data-sheet/MF1S50YYX_V1.pdf
