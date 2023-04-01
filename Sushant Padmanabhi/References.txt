@@ -5,3 +5,6 @@ Link 1: https://www.youtube.com/watch?v=t5eBPS6lV3E
 Link 2: Cloning using arduino 
 https://www.youtube.com/watch?v=VXx6l3vgBno
 https://cybersudo.org/rfid-cards-hacking-cloning-using-arduino/
+
+Link 3: RFID Card HAcking
+https://www.google.com/search?q=cloning+using+rc522+with+arduino&oq=cloning+using+rc522+with+arduino+&aqs=chrome..69i57j33i160l4j33i22i29i30l2.9029j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:feff562f,vid:VXx6l3vgBno
