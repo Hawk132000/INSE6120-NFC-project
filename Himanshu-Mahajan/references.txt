@@ -3,3 +3,7 @@ https://www.researchgate.net/publication/258590498_Research_on_the_Coding_and_De
 https://www.emerald.com/insight/content/doi/10.1108/IMCS-09-2013-0067/full/html
 https://www.nxp.com/docs/en/data-sheet/MF1S50YYX_V1.pdf
 https://www.researchgate.net/publication/220713937_Wirelessly_Pickpocketing_a_Mifare_Classic_Card
+Azhari, F. (2014), "Quick detection of NFC vulnerability: Implementation weakness exploitation", Information Management & Computer Security, Vol. 22 No. 2, pp. 134-140. https://doi.org/10.1108/IMCS-09-2013-0067
+“MF1S50YYX_V1 MIFARE Classic EV1 1K -Mainstream contactless smart card IC for fast and easy solution development,” 2018. Available: https://www.nxp.com/docs/en/data-sheet/MF1S50YYX_V1.pdf
+F. D. Garcia, P. van Rossum, R. Verdult and R. W. Schreur, "Wirelessly Pickpocketing a Mifare Classic Card," 2009 30th IEEE Symposium on Security and Privacy, Oakland, CA, USA, 2009, pp. 3-15, doi: 10.1109/SP.2009.6.
+Golić, J.D. (2013). Cryptanalytic Attacks on MIFARE Classic Protocol. In: Dawson, E. (eds) Topics in Cryptology – CT-RSA 2013. CT-RSA 2013. Lecture Notes in Computer Science, vol 7779. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-36095-4_16
